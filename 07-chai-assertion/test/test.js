@@ -25,6 +25,6 @@ describe('Object Test', function(){
   it('handling null', function(){
     var car = null;
     //car.should.not.exist;
-    should.exist(car);
+    should.not.exist(car);
   });
 });
