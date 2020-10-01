@@ -1,5 +1,6 @@
 # javascript-unit-testing-with-mocha
 code about JavaScript Unit test with Mocha, Chai, Sinon
+doing good man.
 
 # Setup
 * Install [Nodejs](http://nodejs.org)  >= v6.10.3
