@@ -9,3 +9,6 @@ code about JavaScript Unit test with Mocha, Chai, Sinon
 * Run `npm test` to run all test specs.
 OR 
 * RUN `bash src/bash/install-n-run-them-all.sh`
+
+congratulations your work has done 
+thanks for reading
